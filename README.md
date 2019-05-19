@@ -1,3 +1,3 @@
 # temp_humidity_sensor
 Arduino Nano Implementation of a Temperature and Humidity Sensor
-![alt text](https://raw.githubusercontent.com/Connor-Wilhoit/temp_humidity_sensor/master/nano.jpg)
+![alt text](https://raw.githubusercontent.com/Connor-Wilhoit/temp_humidity_sensor/master/temp7.jpg)
